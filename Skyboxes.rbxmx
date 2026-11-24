@@ -1,0 +1,27 @@
+<roblox version="4">
+<Item class="Folder" referent="RBX0"><Properties><string name="Name">Skyboxes</string></Properties>
+<Item class="Sky" referent="RBX1"><Properties><string name="Name">Day</string>
+<Content name="SkyboxBk"><url></url></Content>
+<Content name="SkyboxDn"><url></url></Content>
+<Content name="SkyboxFt"><url></url></Content>
+<Content name="SkyboxLf"><url></url></Content>
+<Content name="SkyboxRt"><url></url></Content>
+<Content name="SkyboxUp"><url></url></Content>
+<int name="StarCount">0</int><bool name="CelestialBodiesShown">false</bool></Properties></Item>
+<Item class="Sky" referent="RBX2"><Properties><string name="Name">Sunset</string>
+<Content name="SkyboxBk"><url></url></Content>
+<Content name="SkyboxDn"><url></url></Content>
+<Content name="SkyboxFt"><url></url></Content>
+<Content name="SkyboxLf"><url></url></Content>
+<Content name="SkyboxRt"><url></url></Content>
+<Content name="SkyboxUp"><url></url></Content>
+<int name="StarCount">0</int><bool name="CelestialBodiesShown">false</bool></Properties></Item>
+<Item class="Sky" referent="RBX3"><Properties><string name="Name">Night</string>
+<Content name="SkyboxBk"><url></url></Content>
+<Content name="SkyboxDn"><url></url></Content>
+<Content name="SkyboxFt"><url></url></Content>
+<Content name="SkyboxLf"><url></url></Content>
+<Content name="SkyboxRt"><url></url></Content>
+<Content name="SkyboxUp"><url></url></Content>
+<int name="StarCount">0</int><bool name="CelestialBodiesShown">false</bool></Properties></Item>
+</Item></roblox>
